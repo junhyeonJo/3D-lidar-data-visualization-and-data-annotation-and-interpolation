@@ -20,5 +20,6 @@
     * 미구현
 
 ### Built With
-<img src="https://img.shields.io/badge/Language-Python-blue?style=flat"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+* <img src="https://img.shields.io/badge/Language-Python-blue?style=flat"/>
+* <img src="vispy?style=flat&logo=Vispy&logoColor=white"/>
+* <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
