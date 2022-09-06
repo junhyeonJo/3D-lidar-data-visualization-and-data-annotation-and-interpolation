@@ -25,3 +25,11 @@
 * <img src="Qt-41CD52?style=flat&logo=Python&logoColor=white"/>
 
 * <img src="https://img.shields.io/badge/vispy-5F259F?style=flat"/>
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
