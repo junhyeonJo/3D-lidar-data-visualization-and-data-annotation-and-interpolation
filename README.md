@@ -22,3 +22,5 @@
 ### Built With
 </img src="Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 </img src="vispy?style=flat&logo=Vispy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Language-C / C++-green?style=flat"/><img src="https://img.shields.io/badge/Platform-Arduino-blue?style=flat"/>
