@@ -24,4 +24,4 @@
 
 * <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=Qt&logoColor=white">
 
-* <img src="https://img.shields.io/badge/vispy-5F259F?style=flat"/>
+* <img src="https://img.shields.io/badge/vispy-5F259F?style=for-the-badge"/>
