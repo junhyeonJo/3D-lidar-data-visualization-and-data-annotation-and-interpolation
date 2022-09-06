@@ -20,5 +20,5 @@
     * 미구현
 
 ### Built With
-https://img.shields.io/badge/</img src="Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-https://img.shields.io/badge/</img src="vispy?style=flat&logo=Vispy&logoColor=white"/>
+</img src="Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+</img src="vispy?style=flat&logo=Vispy&logoColor=white"/>
