@@ -20,8 +20,8 @@
     * 미구현
 
 ### Built With
-* <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+* <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 
-* <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=PyQt5&logoColor=white"/>
+* <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat&logo=Qt&logoColor=white"/>
 
-* <img src="https://img.shields.io/badge/vispy-5F259F?style=flat"/>
+* <img src="https://img.shields.io/badge/Vispy-5F259F?style=flat"/>
