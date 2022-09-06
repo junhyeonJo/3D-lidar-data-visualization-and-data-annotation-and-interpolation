@@ -20,5 +20,6 @@
     * 미구현
 
 ### Built With
-<img src="Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Language-Python-blue?style=flat"/>
+* <img src="Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+* <img src="Qt-41CD52?style=flat&logo=Python&logoColor=white"/>
+* <img src="https://img.shields.io/badge/vispy-5F259F?style=flat"/>
