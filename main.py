@@ -91,7 +91,7 @@ class MyApp(QWidget):
         markers.set_data(self.data, face_color=colors, symbol='o', size=45, edge_color=None)
 
     def on_mouse_move(self, event):
-        global x, y, z, cx, cy, cz
+        global x, y, z
         tr = canvas.scene.node_transform(view.scene)
         scene_coords = tr.map(event.pos)
         scene_coords /= scene_coords[-1]
